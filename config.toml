@@ -1,0 +1,4 @@
+baseURL = "http://martinacantaro.github.io/"
+languageCode = "en-us"
+title = "Programming for absolute fucking idiots"
+theme = "pickles"
